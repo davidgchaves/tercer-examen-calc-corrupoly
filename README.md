@@ -27,7 +27,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ## 2 Formato e introducción de datos
 
-### Introducción de datos. Hoja 1 (0.5 puntos)
+### 2.1 Introducción de datos. Hoja 1 (0.5 puntos)
 
 - Renombra `Hoja1` como `Prebendas`.
 - Introduce los datos en la hoja tal y como se muestran en la foto.
@@ -37,7 +37,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/2-dietas-y-comisiones.jpeg)
 
-### Introducción de datos. Hoja 2 (0.5 puntos)
+### 2.2 Introducción de datos. Hoja 2 (0.5 puntos)
 
 - Añade una nueva hoja de cálculo dentro del mismo libro de trabajo.
 - Renombra `Hoja2` como `Gastos`.
@@ -52,19 +52,19 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ## 3 Fórmulas
 
-### Recuento. Gastos fijos (0.5 puntos)
+### 3.1 Recuento. Gastos fijos (0.5 puntos)
 
 - Calcula el recuento contando el número de `X` de cada concepto. Utiliza la función **`CONTAR.SI`**.
 - Rellena el resto de la columna utilizando la **función autocompletar**.
 
-### Recuento. Gastos opacos y comisiones (0.5 puntos)
+### 3.2 Recuento. Gastos opacos y comisiones (0.5 puntos)
 
 - Calcula el recuento contando la cantidad de celdas con números de cada concepto. Utiliza la función **`CONTAR`**.
 - Rellena el resto de la columna utilizando la **función autocompletar**.
 
 ![](./img/3-formulas.jpeg)
 
-## 4. Definir nombres (1 punto)
+## 4 Definir nombres (1 punto)
 
 - Define un **nombre** para cada uno de los **gastos fijos** de la **hoja `Prebendas`** de alcance **`Documento(Global)`**.
 
@@ -77,9 +77,9 @@ Descarga las imagen de las tarjetas y ¡los billets!
 | `coche_oficial`               | `B7`  |
 | `asesores`                    | `B8`  |
 
-## 5. Totales de gastos
+## 5 Totales de gastos
 
-### Gastos fijos (1 punto)
+### 5.1 Gastos fijos (1 punto)
 
 - Calcula el total semanal para los gastos fijos. Utiliza, para las fórmulas, los **nombres definidos en el apartado anterior**.
   - `Asistencia pleno ordinario = Recuento * dieta_pleno_ordinario`
@@ -93,7 +93,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/5-gastos-fijos.png)
 
-### Gastos opacos (1 punto)
+### 5.2 Gastos opacos (1 punto)
 
 - Calcula el total semanal para los gastos opacos. Utiliza la **función Autosuma**.
   - `Total semana = Lunes + Martes + Miércoles + Jueves + Viernes`
@@ -102,7 +102,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/5-gastos-opacos.jpeg)
 
-## 6. Comisiones (2 puntos)
+## 6 Comisiones (2 puntos)
 
 - Calcula la cantidad de comisión de cada concepto. Utiliza **referencias absolutas** en la fórmula.
   - `Comisión Obras públicas = Importe * % Comisión Obras públicas (hoja Prebendas)`
@@ -122,16 +122,16 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/6-total-fraude.jpeg)
 
-## 7. Formato condicional (1 puntos)
+## 7 Formato condicional (1 puntos)
 
 - Crea un nuevo estilo llamado `Condicion1000` con la fuente en **negrita** de color **rojo**.
 - Define un formato condicional para el rango `J3` a `J8`. Añade la condición para que si el número es **mayor o igual a 1000**, se visualice con el estilo `Condicion1000`.
 
 ![](./img/7-formato-condicional.jpeg)
 
-## 8. Gráficos
+## 8 Gráficos
 
-### Gráfico 1. Circular (1 punto)
+### 8.1 Gráfico 1. Circular (1 punto)
 
 - Selecciona el rango de datos `A2` a `A8` y `J2` a `J8`.
 - Crea un gráfico de **Círculo (tipo Normal)**.
@@ -141,7 +141,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/8-circular.jpeg)
 
-### Gráfico 2. Columnas (1 punto)
+### 8.2 Gráfico 2. Columnas (1 punto)
 
 - Selecciona el rango de datos `A19` a `H20` y `A22` a `H22`.
 - Crea un gráfico de **Columna (tipo Normal)**.
@@ -151,7 +151,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ![](./img/8-columnas.jpeg)
 
-## 9. Subir el examen
+## 9 Subir el examen
 
 - Guarda los cambios.
 - Cierra la hoja de cálculo.
