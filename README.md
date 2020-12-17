@@ -31,7 +31,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 - Renombra `Hoja1` como `Prebendas`.
 - Introduce los datos en la hoja tal y como se muestran en la foto.
-- Crea un cuadro con el texto `Dietas y comisiones`. Aplica **efecto sombra**.
+- Crea un cuadro con el texto `Dietas y comisiones`.
 - Pon formato **Moneda** para los gastos fijos.
 - Pon formato **Porcentaje** sin decimales para las comisiones.
 
