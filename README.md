@@ -126,7 +126,6 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 - Crea un nuevo estilo llamado `Condicion1000` con la fuente en **negrita** de color **rojo**.
 - Define un formato condicional para el rango `J3` a `J8`. Añade la condición para que si el número es **mayor o igual a 1000**, se visualice con el estilo `Condicion1000`.
-- Comprueba los resultados:
 
 ![](./img/7-formato-condicional.jpeg)
 
@@ -134,7 +133,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ### Gráfico 1. Circular (1 punto)
 
-- Selecciona el rango de datos `A2:A8` y `J2:J8`.
+- Selecciona el rango de datos `A2` a `A8` y `J2` a `J8`.
 - Crea un gráfico de **Círculo (tipo Normal)**.
 - Escribe los títulos correspondientes.
 - Muestra los porcentajes con 2 decimales.
@@ -144,7 +143,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ### Gráfico 2. Columnas (1 punto)
 
-- Selecciona el rango de datos `A19:H20` y `A22:H22`.
+- Selecciona el rango de datos `A19` a `H20` y `A22` a `H22`.
 - Crea un gráfico de **Columna (tipo Normal)**.
 - Escribe los títulos correspondientes.
 - Muestra los valores de las series.
