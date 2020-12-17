@@ -52,7 +52,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 ## 3 Fórmulas
 
-### Recuento. Gastos fijos (0.5 puntos)
+### Recuento. Gastos fijos (0.5 puntos)
 
 - Calcula el recuento contando el número de `X` de cada concepto. Utiliza la función **`CONTAR.SI`**.
 - Rellena el resto de la columna utilizando la **función autocompletar**.
