@@ -97,7 +97,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 
 - Calcula el total semanal para los gastos opacos. Utiliza la **función Autosuma**.
   - `Total semana = Lunes + Martes + Miércoles + Jueves + Viernes`
-- Calcula la celda del total de gastos opacos. Utiliza la función Autosuma.
+- Calcula la celda del total de gastos opacos. Utiliza la **función Autosuma**.
 - Pon formato Moneda para la columna del total semanal.
 
 ![](./img/5-gastos-opacos.jpeg)
