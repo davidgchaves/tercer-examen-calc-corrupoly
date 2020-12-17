@@ -117,7 +117,7 @@ Descarga las imagen de las tarjetas y ¡los billets!
 ### Total fraude
 
 - Calcula la cantidad total de fraude.
-  - `Total fraude = Tot. fijos + Tot. opacos + Tot. com`.
+  - `Total fraude = Tot. fijos + Tot. opacos + Tot. com.`
 - Pon formato **Moneda** para la celda de la cantidad total de fraude.
 
 ![](./img/6-total-fraude.jpeg)
