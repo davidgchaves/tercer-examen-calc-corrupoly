@@ -6,7 +6,7 @@
 
 ## Fecha
 
-Viernes 17 de Diciembre de 2020.
+Viernes 18 de Diciembre de 2020.
 
 ## Sobre el formato
 
